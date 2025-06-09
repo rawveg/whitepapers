@@ -12,4 +12,4 @@
 
 ## Papers
 
-1. [Consciousness, Causality, and the Post-Singularity Wave: A Theoretical Framework for Understanding Non-Deterministic Behaviour in AI Systems](ConsciousnessCausalityAndThePostSingualrityWave.md)
+1. [Consciousness, Causality, and the Post-Singularity Wave: A Theoretical Framework for Understanding Non-Deterministic Behaviour in AI Systems](ConsciousnessCausalityAndThePostSingualrityWave.md) - DOI 10.5281/zenodo.15624927
